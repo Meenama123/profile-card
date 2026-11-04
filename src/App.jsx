@@ -8,7 +8,7 @@ function App() {
     bio: "I build clean, responsive, and user-friendly interfaces. Currently mastering React and Git!",
     location: "Lagos, Nigeria",
     skills: ["HTML", "CSS", "JavaScript", "React"],
-    imageUrl: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    imageUrl: "/profile-pic.jpg"
   };
   return (
     <div className="app-container">
